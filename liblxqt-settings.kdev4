@@ -1,0 +1,4 @@
+[Project]
+Name=liblxqt-settings
+Manager=KDevCMakeManager
+VersionControl=
